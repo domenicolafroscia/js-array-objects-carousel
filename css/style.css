@@ -105,3 +105,18 @@
     left: 50%;
     transform: translate(-50%) rotate(135deg);
 }
+
+.title-image, .text-image {
+    color: white;
+    margin-left: 2rem;
+}
+
+.title-image {
+    position: absolute;
+    top: 70%;
+}
+
+.text-image {
+    position: absolute;
+    top: 80%;
+}
